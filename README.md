@@ -1,2 +1,2 @@
 # Google-Cloud-Security-Certificate
-This repository contains all activities completed as part of the Google Cloud Security Certification course.
+This repository contains the completed activities and exercises from the Google Cloud Security Certification course.
